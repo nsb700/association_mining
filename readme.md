@@ -128,8 +128,9 @@ This file is the final output with all association mining metrics calculated.
 
 ![screenshot_05.png](screenshots%2Fscreenshot_05.png)
 **
-**These associations have also been deployed as an API Web Application. See https://github.com/nsb700/association-mining-webapp**
 
 (6) Services associated with diagnosis **Eyelid retraction left upper eyelid**
 
 ![screenshot_06.png](screenshots%2Fscreenshot_06.png)
+
+**These associations have also been deployed as an API Web Application. See https://github.com/nsb700/association-mining-webapp**
